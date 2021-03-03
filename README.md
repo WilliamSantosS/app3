@@ -1,2 +1,3 @@
-# app3
-Cadastro de finanças 
+#Cadastro de finanças
+Aplicação que permite o cadastro de finanças
+ 
